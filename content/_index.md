@@ -6,8 +6,8 @@ images: ["/images/sample.jpg"]
 
 Hey,
 
-I'm Edna West, a Web Developer and Entrepreneur.
+Jeg er Jonas Bang, en elev på Sorø Gymnastikefterskole.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus error cumque quisquam necessitatibus libero dolore porro, quo at molestiae modi voluptatibus iusto alias corporis. Accusamus, debitis, atque. Maiores, distinctio, neque.
+Jeg har lavet denne hjemmeside for at fremvise mine skoleopgaver i 10-fri gennem hele
 
-[Get to know me better](/about "Get to know me better")
+[Lær mig at kende bedre](/about "Get to know me better")
