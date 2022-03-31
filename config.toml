@@ -1,4 +1,4 @@
-baseURL = ""
+baseURL = "/"
 languageCode = "en-us"
 title = "Portfolie 10fri"
 theme = "personal-web"
